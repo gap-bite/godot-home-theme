@@ -1,4 +1,4 @@
-![minimal-theme-window](![460183775-3758a87b-84d9-4556-9f06-31632762e690](https://github.com/user-attachments/assets/a5565d0c-5128-4450-bf02-2c5b3bbfd78a)
+![home-theme-window](![460183775-3758a87b-84d9-4556-9f06-31632762e690](https://github.com/user-attachments/assets/a5565d0c-5128-4450-bf02-2c5b3bbfd78a)
 
 
 
