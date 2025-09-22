@@ -1,8 +1,6 @@
-![minimal-theme@2x](https://github.com/user-attachments/assets/3758a87b-84d9-4556-9f06-31632762e690)
-![minimal-theme-window@2x](https://github.com/user-attachments/assets/1ffab3b3-958c-493b-bff4-06be51438642)
+![minimal-theme-window](![460183775-3758a87b-84d9-4556-9f06-31632762e690](https://github.com/user-attachments/assets/a5565d0c-5128-4450-bf02-2c5b3bbfd78a)
 
 
-# Godot Home Theme
 
 ## Installation
 
