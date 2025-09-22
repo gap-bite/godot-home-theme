@@ -2,7 +2,7 @@
 ![minimal-theme-window@2x](https://github.com/user-attachments/assets/1ffab3b3-958c-493b-bff4-06be51438642)
 
 
-# Godot Minimal Theme
+# Godot Home Theme
 
 ## Installation
 
@@ -10,9 +10,9 @@
 2. Open `Editor Settings -> Interface -> Theme` and choose the downloaded file in the `Custom Theme` field. You need to have `Advanced Settings` enabled to see it.
 3. Click `Save & Restart`.
 
-## Home theme settings
+## Settings
 
-Minimal theme supports all editor settings. My recommendations are:
+Home theme supports all editor settings. My recommendations are:
 
 `Editor Settings -> Interface -> Theme`:
 
